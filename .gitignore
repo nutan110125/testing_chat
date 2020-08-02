@@ -1,0 +1,7 @@
+.env/*
+tik_tok/__pycache__
+mediafiles/*
+app/staticfiles
+app/__pycache__
+app/migrations/__pycache__
+tik_tok/penutg/media/inputs
